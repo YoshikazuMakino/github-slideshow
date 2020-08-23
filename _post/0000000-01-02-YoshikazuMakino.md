@@ -1,2 +1,1 @@
-layout: slide
-title: "２枚目のスライドにようこそ！"
+_posts/0000-01-02-YoshikazuMakino.md
